@@ -8,6 +8,10 @@ Este repositório é onde a Elisa escreve os roteiros do YouTube, shorts e reels
 - `analises/`: análises de vídeos e reels de outros perfis (transcrição, decupagem, padrões).
 - `guias/reels-guia.md`: guia de reels baseado em 39 reels analisados (linha Dan Koe). Ler antes de escrever reels ou shorts.
 
+Sempre salvar no Git: depois de criar ou alterar qualquer arquivo, fazer commit e push sem precisar perguntar (autorizado pela Elisa).
+
+Apify: o token está guardado no ambiente "Teste1" e é injetado automaticamente em chamadas para api.apify.com (não precisa de variável). Usar para transcrever vídeos do YouTube e reels do Instagram.
+
 Ao final de cada roteiro aprovado, salvar o arquivo na pasta certa e registrar no topo dele: autor usado, conceito batizado, tipo de gancho.
 
 ## Leia primeiro: regras para a IA
