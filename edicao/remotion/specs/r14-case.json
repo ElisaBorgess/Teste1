@@ -1,0 +1,5 @@
+{"id":"R14-Case-SerIntegral","title":{"sans":["Professor, artista e empresário."],"serif":"Uma pessoa só.","end":7.0},
+"cuts":[["5610",0,7.3],["5614",0,13.0],["5614",26.4,39.0],["5614",40.0,52.6],["5614",66.4,79.35],["5615",14.0,19.6],["5616",8.4,15.7]],
+"keys":["três papéis","pessoa só,","Instagram","Facebook,","LinkedIn","ser integral","Elisa","outra pessoa,","já sou.","link"],
+"fix":{"^Xossar[d]?,?$":"Chaussard,","^atista$":"artista","^sua$":"sou","^vinquedinho$":"LinkedIn","^Sul\\.?$":""},
+"inserts":[{"src":"5583.mp4","at_word":"artista","nth":3,"dur":2.0,"from":1},{"src":"5607.mp4","at_word":"Elisa","dur":2.2,"from":2.2},{"src":"5592.mp4","at_word":"integral","nth":2,"dur":2.4,"from":3}]}

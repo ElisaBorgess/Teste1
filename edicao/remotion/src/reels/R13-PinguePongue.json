@@ -1,0 +1,233 @@
+{
+ "id": "R13-PinguePongue",
+ "title": {
+  "sans": [
+   "Responde rápido:"
+  ],
+  "serif": "pincel ou mouse?",
+  "end": 3.0
+ },
+ "clips": [
+  {
+   "src": "5560.mp4",
+   "from": 753.92,
+   "dur": 1.78,
+   "zoom": 1.0
+  },
+  {
+   "src": "5560.mp4",
+   "from": 756.38,
+   "dur": 0.87,
+   "zoom": 1.09
+  },
+  {
+   "src": "5560.mp4",
+   "from": 757.2,
+   "dur": 2.26,
+   "zoom": 1.0
+  },
+  {
+   "src": "5560.mp4",
+   "from": 760.4,
+   "dur": 0.85,
+   "zoom": 1.09
+  },
+  {
+   "src": "5560.mp4",
+   "from": 761.2,
+   "dur": 2.64,
+   "zoom": 1.0
+  },
+  {
+   "src": "5560.mp4",
+   "from": 764.98,
+   "dur": 1.58,
+   "zoom": 1.09
+  },
+  {
+   "src": "5560.mp4",
+   "from": 766.84,
+   "dur": 2.2,
+   "zoom": 1.0
+  },
+  {
+   "src": "5560.mp4",
+   "from": 770.24,
+   "dur": 1.01,
+   "zoom": 1.09
+  }
+ ],
+ "inserts": [],
+ "words": [
+  {
+   "t": 0.08,
+   "e": 0.88,
+   "w": "Pincel",
+   "k": true,
+   "b": true
+  },
+  {
+   "t": 0.88,
+   "e": 1.18,
+   "w": "ou",
+   "k": false,
+   "b": false
+  },
+  {
+   "t": 1.18,
+   "e": 1.64,
+   "w": "mouse?",
+   "k": false,
+   "b": false
+  },
+  {
+   "t": 1.86,
+   "e": 2.65,
+   "w": "Pincel",
+   "k": true,
+   "b": false
+  },
+  {
+   "t": 2.71,
+   "e": 4.03,
+   "w": "Galeria",
+   "k": true,
+   "b": true
+  },
+  {
+   "t": 4.03,
+   "e": 4.39,
+   "w": "ou",
+   "k": false,
+   "b": false
+  },
+  {
+   "t": 4.39,
+   "e": 4.77,
+   "w": "Instagram?",
+   "k": false,
+   "b": false
+  },
+  {
+   "t": 4.99,
+   "e": 5.76,
+   "w": "Galeria",
+   "k": true,
+   "b": false
+  },
+  {
+   "t": 5.84,
+   "e": 7.12,
+   "w": "Planejar",
+   "k": false,
+   "b": true
+  },
+  {
+   "t": 7.12,
+   "e": 7.5,
+   "w": "ou",
+   "k": false,
+   "b": false
+  },
+  {
+   "t": 7.5,
+   "e": 8.26,
+   "w": "improvisar?",
+   "k": true,
+   "b": false
+  },
+  {
+   "t": 8.48,
+   "e": 9.48,
+   "w": "Improvisar",
+   "k": true,
+   "b": false
+  },
+  {
+   "t": 9.48,
+   "e": 9.84,
+   "w": "sempre.",
+   "k": true,
+   "b": false
+  },
+  {
+   "t": 10.06,
+   "e": 10.84,
+   "w": "Arte",
+   "k": false,
+   "b": true
+  },
+  {
+   "t": 10.84,
+   "e": 11.3,
+   "w": "física",
+   "k": false,
+   "b": false
+  },
+  {
+   "t": 11.3,
+   "e": 11.56,
+   "w": "ou",
+   "k": false,
+   "b": false
+  },
+  {
+   "t": 11.56,
+   "e": 12.04,
+   "w": "digital?",
+   "k": false,
+   "b": false
+  },
+  {
+   "t": 12.26,
+   "e": 13.19,
+   "w": "Fijital.",
+   "k": true,
+   "b": false
+  }
+ ],
+ "groups": [
+  [
+   0
+  ],
+  [
+   1,
+   2
+  ],
+  [
+   3
+  ],
+  [
+   4
+  ],
+  [
+   5,
+   6
+  ],
+  [
+   7
+  ],
+  [
+   8,
+   9,
+   10
+  ],
+  [
+   11,
+   12
+  ],
+  [
+   13,
+   14,
+   15
+  ],
+  [
+   16
+  ],
+  [
+   17
+  ]
+ ],
+ "ctaStart": 12.29,
+ "total": 13.69
+}

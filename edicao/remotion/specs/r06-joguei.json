@@ -1,0 +1,5 @@
+{"id":"R06-JogueiFora","title":{"sans":["A obra que eu joguei fora"],"serif":"virou a minha favorita.","end":5.0},
+"cuts":[["5560",276.5,278.8],["5560",279.9,282.2],["5560",282.9,286.3],["5560",287.2,297.9],["5560",298.7,304.9],["5560",306.3,310.8],["5560",312.4,313.5],["5560",314.4,318.6],["5560",319.3,323.6],["5560",324.3,325.0]],
+"keys":["Joguei Fora,","Impasto,","textura","muito ruim,","amassei.","foto","digital.","fantástica.","arrependi"],
+"fix":{"^vá$":"tinha","^te$":"tirado"},
+"inserts":[{"src":"5583.mp4","at_word":"Impasto,","dur":2.4,"from":1}]}
