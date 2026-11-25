@@ -9,6 +9,7 @@ Os textos completos ficam no Notion (página "Conteúdos": vídeos na coluna da 
 | 22/11 | EU PLANEJO TUDO E NÃO COMEÇO NADA. o que a terapia me mostrou | Inteligência de vitrine | Brené Brown | Inteligência de vitrine (x inteligência de uso) | Confissão | Inversão; afirmação contra o senso comum; teoria com nome |
 | 22/11 | EU LARGO TUDO QUE COMEÇO. e descobri que isso não é um defeito | Constância de estação | Alan Watts | Constância de estação | Dado surpreendente (lista do que largou) | Ordem contrária; pergunta de seleção; mapa de níveis |
 | 22/11 | 6 MESES DEPOIS: o que mudou na minha vida (e do que eu abri mão) | Seis meses | Oliver Burkeman | Preço do sim | Pergunta incômoda | Número pessoal (vlog); medida de algo invisível; aviso |
+| 25/11 | VOLTAR PRA SI MESMA NÃO É VOLTAR PRO PASSADO (nem virar egoísta) | Endereço atual | Erich Fromm (A Arte de Amar) | Endereço atual | Fala que alguém disse (ditado invertido) | Textos dela: "eu sei que você se anulou" (confissão/acolhimento); "você tira a cidade do homem" (ditado); "o egoísmo pra mim" (opinião + lista de lembranças) |
 
 Títulos seguem os padrões de `analises/2026-11-22-titulos-virais-youtube.md`.
 
@@ -20,4 +21,5 @@ Títulos seguem os padrões de `analises/2026-11-22-titulos-virais-youtube.md`.
 - Começou e parou: inglês, cursos de marketing, dietas, academia, violão aos 15, artesanato (usou duas vezes), 1,5 ano de psicologia, projeto de marketing digital, dropshipping.
 - O que sempre volta, em ciclos: criar, escrever, ler, desenhar.
 - Em seis meses: conseguiu um emprego que virou clientes, abriu empresa, começou relacionamento com quem ama, mudou para o apartamento dos sonhos, começou o canal. Esperava comprar um carro; aprendeu que mudar era prioridade.
+- Pensa que o egoísmo é um dos piores sentimentos; valoriza as coisas chatas que se faz por amor (aniversário, dividir sobremesa, desculpas, hospital).
 - Tem um cliente artista, empresário e professor que também sofreu com "o que você faz?" (usado no vídeo de múltiplos interesses).
