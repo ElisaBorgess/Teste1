@@ -77,7 +77,7 @@ for ins in plano.get('inserts', []):
     if plano.get('sfx_insert'): sfx.append({'src': plano['sfx_insert'], 's': max(0, s - 4), 'vol': 0.35})
 # legenda sai de cima de cartelas e listas (o texto já está na tela)
 cobre = [(i['s'], i['e']) for i in inserts if i['type'] in ('cartela', 'passos')]
-caps = [c for c in caps if not any(s <= c['s'] < e for s, e in cobre)]
+caps = [c for c in caps if not any(c['s'] < e and c['e'] > s for s, e in cobre)]
 
 edl = {'durationInFrames': out, 'clips': clips, 'caps': caps, 'inserts': inserts, 'sfx': sfx}
 if plano.get('musica'): edl['musica'] = plano['musica']

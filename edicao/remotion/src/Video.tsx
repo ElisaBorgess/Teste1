@@ -93,7 +93,7 @@ const InsertView: React.FC<{i: Insert}> = ({i}) => {
         <Papel>
           <Orbita p={p} />
           <AbsoluteFill style={{justifyContent: 'center', alignItems: 'center', flexDirection: 'column', gap: 18}}>
-            <div style={{fontFamily: SERIF, fontWeight: 500, fontSize: 96, color: TINTA, letterSpacing: 6, textTransform: 'uppercase', textAlign: 'center', maxWidth: 1100,
+            <div style={{fontFamily: SERIF, fontWeight: 500, fontSize: (i.titulo ?? '').length > 16 ? 70 : 96, color: TINTA, letterSpacing: (i.titulo ?? '').length > 16 ? 3 : 6, whiteSpace: 'nowrap', textTransform: 'uppercase', textAlign: 'center', maxWidth: 1100,
               opacity: p, transform: `translateY(${(1 - p) * 20}px)`}}>{i.titulo}</div>
             {i.sub && <div style={{fontFamily: SERIF, fontStyle: 'italic', fontSize: 44, color: TINTA, opacity: interpolate(f, [12, 30], [0, 0.8], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})}}>{i.sub}</div>}
           </AbsoluteFill>
