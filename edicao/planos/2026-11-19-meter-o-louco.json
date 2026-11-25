@@ -1,0 +1,30 @@
+{
+ "segmentos": [
+  ["IMG_7176", 0, 31], ["IMG_7177", 0, 17], ["IMG_7178", 10.5, 40],
+  ["IMG_7179", 0, 169], ["IMG_7179", 177, 215], ["IMG_7179", 219, 225], ["IMG_7179", 240, 317],
+  ["IMG_7179", 323, 383], ["IMG_7179", 388, 451], ["IMG_7179", 456, 557], ["IMG_7179", 579, 594],
+  ["IMG_7179", 601, 769], ["IMG_7179", 780, 898], ["IMG_7179", 907, 970], ["IMG_7179", 975, 1046],
+  ["IMG_7179", 1095, 1115], ["IMG_7179", 1117, 1122]
+ ],
+ "correcoes": {"nidski": "Nietzsche", "nitski": "Nietzsche", "pinderow": "Píndaro", "ess": "és", "quebra": "", "-empresa": "", "torna": "torna-te", "-te": ""},
+ "destaques": ["chorei", "apartamento", "exausta", "cansaço", "demissão", "cliente", "medo", "arriscar", "conforto", "bonito", "prisão", "permissão", "hoje", "movimento", "torna-te", "verdadeira", "meu"],
+ "sfx_insert": "sfx/whoosh.mp3",
+ "musica": {"src": "sfx/musica.mp3", "vol": 0.06},
+ "inserts": [
+  {"type": "imagem", "src": "inserts/i1.png", "em": ["IMG_7176", 3.0], "dur": 3.5},
+  {"type": "imagem", "src": "inserts/i2.png", "em": ["IMG_7179", 3.5], "dur": 3.5},
+  {"type": "imagem", "src": "inserts/i3.png", "em": ["IMG_7179", 22.0], "dur": 4},
+  {"type": "passos", "titulo": "Todo dia", "itens": ["Trabalho", "Curso", "Casa"], "em": ["IMG_7179", 79.0], "dur": 6},
+  {"type": "imagem", "src": "inserts/i4.png", "em": ["IMG_7179", 182.0], "dur": 4},
+  {"type": "imagem", "src": "inserts/i5.png", "em": ["IMG_7179", 205.0], "dur": 4},
+  {"type": "cartela", "titulo": "Quem ama protege", "sub": "mas nem sempre leva longe", "em": ["IMG_7179", 341.0], "dur": 3.5},
+  {"type": "imagem", "src": "inserts/i6.png", "em": ["IMG_7179", 399.0], "dur": 4},
+  {"type": "cartela", "titulo": "Torna-te quem tu és", "sub": "Píndaro, via Nietzsche", "em": ["IMG_7179", 476.0], "dur": 3.5},
+  {"type": "imagem", "src": "inserts/i8.png", "em": ["IMG_7179", 603.0], "dur": 4},
+  {"type": "cartela", "titulo": "Conforto bonito", "sub": "quando a escolha vira prisão", "em": ["IMG_7179", 677.0], "dur": 3.5},
+  {"type": "imagem", "src": "inserts/i7.png", "em": ["IMG_7179", 720.0], "dur": 4},
+  {"type": "passos", "titulo": "Onde está o seu?", "itens": ["A cidade", "O trabalho", "As relações", "Uma versão sua"], "em": ["IMG_7179", 781.5], "dur": 6},
+  {"type": "imagem", "src": "inserts/i9.png", "em": ["IMG_7179", 911.0], "dur": 3.5},
+  {"type": "cartela", "titulo": "Se ninguém fosse opinar", "sub": "o que você faria hoje?", "em": ["IMG_7179", 918.0], "dur": 4}
+ ]
+}
