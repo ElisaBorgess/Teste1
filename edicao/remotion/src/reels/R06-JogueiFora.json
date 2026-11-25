@@ -123,15 +123,7 @@
    "zoom": 1.0
   }
  ],
- "inserts": [
-  {
-   "src": "5583.mp4",
-   "kind": "video",
-   "at": 12.076,
-   "dur": 2.4,
-   "from": 1
-  }
- ],
+ "inserts": [],
  "words": [
   {
    "t": 0.06,
