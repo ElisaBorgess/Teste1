@@ -7,6 +7,8 @@ Este repositório é onde a Elisa escreve os roteiros do YouTube, shorts e reels
 - `roteiros/youtube/`, `roteiros/shorts/`, `roteiros/reels/`: roteiros prontos, um arquivo por roteiro, nome `AAAA-MM-DD-tema.md`.
 - `analises/`: análises de vídeos e reels de outros perfis (transcrição, decupagem, padrões).
 - `guias/reels-guia.md`: guia de reels baseado em 39 reels analisados (linha Dan Koe). Ler antes de escrever reels ou shorts.
+- `guias/thumbnail-guia.md`: padrão da frase de thumbnail (até 4 palavras, completa o título sem repetir). Todo roteiro de YouTube sai com 3 opções de frase de thumb.
+- `analises/2026-11-22-titulos-virais-youtube.md`: padrões de títulos virais do nicho.
 
 Sempre salvar no Git: depois de criar ou alterar qualquer arquivo, fazer commit e push sem precisar perguntar (autorizado pela Elisa).
 
