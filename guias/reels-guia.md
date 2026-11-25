@@ -4,6 +4,8 @@ Base: 39 Reels transcritos e decupados frame a frame, de 7 perfis: @thedankoe (1
 
 Limite desta análise: os arquivos não trazem views, salvamentos nem compartilhamentos. Por isso o guia trata os 39 como "vencedores" e procura o que se repete entre eles, e não o que separa o melhor do pior. Quando houver os números de cada um, vale cruzar com a seção 3.
 
+> **Atenção:** o @otoufics aparece aqui só como parte da amostra analisada. A Elisa não quer nenhum conteúdo parecido com o dele: nada de energia, vibração, espiritualidade ou temas semelhantes (regra 8 do CLAUDE.md). Os exemplos dele servem apenas para entender estrutura, nunca tema ou vocabulário.
+
 ## 1 · O que os 39 vídeos têm em comum
 
 Sete perfis, quatro nichos diferentes (relacionamento, negócios, espiritualidade, filosofia), e o mesmo esqueleto aparece em quase todos.

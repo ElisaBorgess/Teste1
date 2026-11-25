@@ -25,6 +25,7 @@ Roteiros vão para o Notion, página "Conteúdos" (id 41bf185088be802ba8e7fadefe
 5. Varie sempre. Cada roteiro usa um autor, um conceito, um tipo de gancho e um vocabulário diferentes dos roteiros anteriores da conversa e dos já salvos em `roteiros/` (consulte o cabeçalho dos mais recentes antes de escrever). Repetição é o maior erro possível neste projeto.
 6. Sem travessão. Use vírgula, ponto ou dois-pontos.
 7. Roteiros vêm em blocos, só com o texto falado. Sem instruções para editores.
+8. Nada do universo do @otoufics. Zero energia, vibração, espiritualidade, luz, dívida espiritual, universo mandando sinais, versículo como mecanismo ou qualquer tema e vocabulário parecidos com os dele. Nem como exemplo, nem adaptado. O mecanismo dos roteiros vem sempre de filosofia, psicologia, literatura ou da vida real dela.
 
 ## O canal
 
@@ -134,7 +135,7 @@ A lista pode crescer. Se uma fonte nova servir melhor à história, use.
 
 Pontos de partida, não pautas fechadas. A história de cada vídeo vem dela.
 
-Solidão escolhida, ambição feminina, cansaço e produtividade, família e expectativas, identidade e trabalho, amizades que mudam, dinheiro e liberdade, tédio, medo de ser vista, criar e se expor, corpo e rotina, sentido e fé, comparação, recomeço, amor-próprio e amor romântico, o tempo passando.
+Solidão escolhida, ambição feminina, cansaço e produtividade, família e expectativas, identidade e trabalho, amizades que mudam, dinheiro e liberdade, tédio, medo de ser vista, criar e se expor, corpo e rotina, sentido, comparação, recomeço, amor-próprio e amor romântico, o tempo passando.
 
 ## Checklist antes de entregar um roteiro
 
