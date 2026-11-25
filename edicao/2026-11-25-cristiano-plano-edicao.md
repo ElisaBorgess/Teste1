@@ -5,6 +5,12 @@ Referência de estilo: reel "Não precisa entender de arte" (já editado a parti
 
 A confirmar com o cliente: grafia do sobrenome (a transcrição oscila entre Chossard e Xossard), nome do filho em 5617, número de galerias ("9 galerias") e o tema do luto (2018) antes de publicar.
 
+## Status (25/11)
+
+Já editados e publicados: Não precisa entender de arte, R3 (Pescador e aves), R4 (Filho/Curador), R5 (Obra sem nome), R7 (Blue Mind Fly), R8 (Buena Flor/Desrealismo), R16 (Lugar que me inspira + Novo Ateliê), Obra amarela/foto de satélite.
+
+Falta editar (no Remotion): R1 Cry, R2 Casa pegasse fogo, R6 Joguei fora, R9 Fotógrafo ou artista, R10 Artista/empresário/professor, R11 Sempre foi artista, R12 Arte em negócio, R13 Pingue-pongue, R14 Case Elisa, R15 Por que me conhecer, R17/R18 Livros, Homem Desesperado.
+
 ## 1. O estilo da referência (aplicar em todos)
 
 - Formato 9:16, 1080x1920, de 30 a 60 s.
