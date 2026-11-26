@@ -1,7 +1,7 @@
 import React from 'react';
 import {AbsoluteFill, Img, OffthreadVideo, Sequence, interpolate, spring, staticFile, useCurrentFrame, useVideoConfig} from 'remotion';
 
-export type Clip = {src: string; from: number; dur: number; zoom?: number};
+export type Clip = {src: string; from: number; dur: number; zoom?: number; ty?: number};
 export type Insert = {src: string; at: number; dur: number; from?: number; kind: 'video' | 'image'};
 export type Word = {t: number; e: number; w: string; k?: boolean};
 export type ReelData = {
@@ -33,7 +33,7 @@ const MainTrack: React.FC<{clips: Clip[]}> = ({clips}) => {
         acc += c.dur;
         return (
           <Sequence key={i} from={start} durationInFrames={len}>
-            <AbsoluteFill style={{transform: `scale(${c.zoom ?? 1})`}}>
+            <AbsoluteFill style={{transform: `translateY(${c.ty ?? 0}px) scale(${c.zoom ?? 1})`}}>
               <OffthreadVideo src={staticFile(c.src)} startFrom={Math.round(c.from * FPS)} volume={(f) => Math.min(1, (f + 1) / 2, (len - f) / 2)} style={{width: '100%', height: '100%', objectFit: 'cover'}} />
             </AbsoluteFill>
           </Sequence>

@@ -41,7 +41,7 @@ for cut in spec['cuts']:
     for r in runs:
         s0 = max(a, r[0][0] - PRE); s1 = min(b + 0.35, r[-1][1] + POST)
         if s1 <= s0: continue
-        zoom = 1.0 if z % 2 == 0 else 1.09; z += 1
+        zoom = opt.get('zoom', 1.0 if z % 2 == 0 else 1.09); z += 1
         ps = pieces(clip, s0, s1, [w[0] for w in r])
         def tl(x):  # tempo da fonte -> tempo da timeline
             o = acc
@@ -58,7 +58,7 @@ for cut in spec['cuts']:
             words.append({'t': round(tl(w[0]), 3), 'e': round(tl(w[1]), 3), 'w': txt, 'k': norm(txt) in keys, 'b': first and r is runs[0]})
             first = False
         for pa, pb in ps:
-            clips.append({'src': f'{clip}.mp4', 'from': round(pa, 3), 'dur': round(pb - pa, 3), 'zoom': zoom})
+            clips.append({'src': f'{clip}.mp4', 'from': round(pa, 3), 'dur': round(pb - pa, 3), 'zoom': zoom, **({'ty': opt['ty']} if 'ty' in opt else {})})
             acc += pb - pa
 # juntar palavras-chave compostas: marcar sequências listadas como "a b"
 for k in spec.get('keys', []):
