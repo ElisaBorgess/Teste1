@@ -14,7 +14,7 @@ Sempre salvar no Git: depois de criar ou alterar qualquer arquivo, fazer commit 
 
 Apify: o token está guardado no ambiente "Teste1" e é injetado automaticamente em chamadas para api.apify.com (não precisa de variável). Usar para transcrever vídeos do YouTube e reels do Instagram.
 
-Roteiros vão para o Notion, página "Conteúdos" (id 41bf185088be802ba8e7fadefef378cf): uma página para o vídeo do YouTube (coluna da esquerda, nos 7 blocos) e uma página de reels com 3 shorts falados e 3 frases (coluna da direita), ícone 🟡. Depois de criar, mover as páginas para dentro das colunas. Em seguida, atualizar `roteiros/registro.md` (autor, conceito, ganchos, fatos novos que ela contou) e fazer commit.
+Roteiros vão para o Notion, página "Conteúdos" (id 41bf185088be802ba8e7fadefef378cf): uma página para o vídeo do YouTube (coluna da esquerda, nos 7 blocos) e uma página de reels com 3 shorts falados e 3 frases (coluna da direita), ícone 🟡. Sempre incluir a legenda de cada peça junto dela na mesma página: no vídeo do YouTube, uma descrição ao final (2 a 3 linhas que completam o título sem repetir, convite para a newsletter, 3 a 5 hashtags); em cada short e em cada frase de reel, uma legenda do Instagram logo abaixo (primeira linha que segura antes do "mais", 3 a 5 parágrafos curtos em minúsculas e tom de diário, CTA que casa com a emoção, 3 a 5 hashtags, sem travessão). Depois de criar, mover as páginas para dentro das colunas. Em seguida, atualizar `roteiros/registro.md` (autor, conceito, ganchos, fatos novos que ela contou) e fazer commit.
 
 ## Leia primeiro: regras para a IA
 
